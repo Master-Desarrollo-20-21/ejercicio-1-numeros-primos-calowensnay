@@ -1,4 +1,4 @@
-package primesNumbers;
+package primeNumbers;
 
 public class PrimeNumbers {
 
